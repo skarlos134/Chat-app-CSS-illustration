@@ -1,0 +1,21 @@
+@charset "UTF-8";
+@font-face { font-family:"Arial";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID1") format(svg)}
+@font-face { font-family:"Arial";font-variant:normal;font-style:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+.str0 {stroke:#FEFEFE;stroke-width:3.98;stroke-miterlimit:22.9256}
+.str1 {stroke:#FEFEFE;stroke-width:7.95;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.fil6 {fill:none}
+.fil0 {fill:#FEFEFE}
+.fil9 {fill:#BDBFC1}
+.fil8 {fill:#606062}
+.fil10 {fill:#3D244E}
+.fil7 {fill:#BE3DFF}
+.fil3 {fill:#EFE4F4}
+.fil1 {fill:#F5F3F8}
+.fil2 {fill:url(#id4)}
+.fil4 {fill:url(#id5)}
+.fil5 {fill:url(#id6)}
+.fnt2 {font-weight:normal;font-size:65.4px;font-family:'Arial'}
+.fnt1 {font-weight:normal;font-size:65.41px;font-family:'Arial'}
+.fnt4 {font-weight:normal;font-size:65.41px;font-family:'Arial'}
+.fnt0 {font-weight:bold;font-size:90.04px;font-family:'Arial'}
+.fnt3 {font-weight:bold;font-size:107.52px;font-family:'Arial'}
